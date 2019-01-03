@@ -5,4 +5,4 @@ You can modify it directly in the main branch. It's better for the purpose I'm l
 Adding lines is easy directly in the main branch. You don't have to commit, ideal for using as a note taking.
 
 Ajout depuis Atom sur le Mac.
-Un second ajout.
+Un second ajout. Et une modification depuis GitHub.
